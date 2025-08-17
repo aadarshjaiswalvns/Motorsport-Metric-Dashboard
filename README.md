@@ -1,5 +1,9 @@
 # 🏍️ Motorsport Metric Dashboard (2008–2024)
 
+![Excel Dashboard]() 
+
+## 📊 Project Overview
+
 This project is an interactive Motorsport Metric Dashboard created in Microsoft Excel to analyze rider performance, team achievements, and country representation in motorsport events from 2008 to 2024.
 
 The dashboard provides insights into riders’ standings, race victories, team wins, and participation trends across seasons.
