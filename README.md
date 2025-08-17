@@ -73,8 +73,7 @@ Key Features:
 
 * 📧 Email: aadarshjaiswal.vns@gmail.com
 * 🔗 [LinkedIn](https://www.linkedin.com/in/aadarsh-jaiswal/)
-* 💻 [Portfolio](https://www.your-portfolio-link.com)
-
+* 💻 [Portfolio](https://aadarshjaiswalvns.github.io/Data-Analytics-Portfolio)
 ---
 
 ## ⭐ Contribution
