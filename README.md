@@ -1,6 +1,6 @@
 # 🏍️ Motorsport Metric Dashboard (2008–2024)
 
-![Excel Dashboard]() 
+![Excel Dashboard](https://github.com/aadarshjaiswalvns/Motorsport-Metric-Dashboard/blob/main/Excel_Dashboard_Preview.png) 
 
 ## 📊 Project Overview
 
