@@ -71,7 +71,7 @@ Key Features:
 
 **Aadarsh Jaiswal**
 
-* 📧 Email: aadarshjaiswal.vns@gmail.com
+* 📧 aadarshjaiswal.vns@gmail.com
 * 🔗 [LinkedIn](https://www.linkedin.com/in/aadarsh-jaiswal/)
 * 💻 [Portfolio](https://aadarshjaiswalvns.github.io/Data-Analytics-Portfolio)
 ---
