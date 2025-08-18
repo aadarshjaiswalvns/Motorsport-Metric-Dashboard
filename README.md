@@ -63,14 +63,6 @@ Key Features:
 
 ---
 
-## 📌 Future Enhancements
-
-* Extend dataset beyond 2024.
-* Automate data updates with Power Query.
-* Build a Power BI version for more advanced interactivity.
-
----
-
 ## 👤 Author
 
 **Aadarsh Jaiswal**
