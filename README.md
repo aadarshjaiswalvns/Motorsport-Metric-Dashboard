@@ -32,17 +32,6 @@ Key Features:
 
 ---
 
-## 🚀 How to Use
-
-1.  Download the Excel file:
-    ```
-    git clone [https://github.com/your-username/motorsport-metric-dashboard.git](https://github.com/your-username/motorsport-metric-dashboard.git)
-    ```
-2.  Open `Motorsport_Dashboard_2008-2024.xlsx` in Microsoft Excel.
-3.  Use slicers (season, rider name, country) to filter and interact with the dashboard.
-
----
-
 ## 🔎 Insights
 
 * Marc Marquez dominates as the **Best Rider** and **Title Leader**.
